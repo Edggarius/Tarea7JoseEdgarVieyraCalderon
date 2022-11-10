@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Top3>
+    <head>
+        <tittle>Los 3 mejores animes de mi vida</tittle>
+    </head>
+    <body>
+            <id category="Manga-Anime">         
+                <nombre lang="es">One Piece</nombre>         
+            <caracteristicas>
+                    <año>Octubre de 1999</año>
+                    <genero>Shonen</genero>         
+            </caracteristicas>
+                <caps>1038</caps>
+            </id>
+
+             <id category="Manga-Anime">         
+                <nombre lang="es">HunterxHunter</nombre>         
+            <caracteristicas>
+                    <año>Septiembre de 1998</año>
+                    <genero>Shonen</genero>         
+            </caracteristicas>
+                <caps>62</caps>
+            </id>
+
+             <id category="Manga-Anime">         
+                <nombre lang="es">Uzaki-chan wa Asobitai!</nombre>         
+            <caracteristicas>
+                    <año>Julio de 2020</año>
+                    <genero>Shojo</genero>         
+            </caracteristicas>
+                <caps>12</caps>
+            </id>
+      
+
+        <dateline>
+            <location>Edificio AG </location>
+            <date>9/11/2022</date>
+        </dateline>
+    </body>
+</Top3>

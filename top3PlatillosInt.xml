@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Top3>
+    <head>
+        <tittle>Los 3 mejores platillos del mundo</tittle>
+    </head>
+    <body>
+            <id category="México">
+            <pais>México</pais>
+                <estado-provincia lang="es">Puebla</estado-provincia>         
+            <aspectos>
+                    <nombrePlatillo>Chile Poblano</nombrePlatillo>
+                    <popularidad>Muy conocido en México por toda su extensión territorial</popularidad>         
+            </aspectos>
+                <rango>3</rango>
+            </id>
+
+        <id category="Japón">
+                <pais>Japón</pais>
+                <estado-provincia lang="es">Motonari</estado-provincia>         
+            <aspectos>
+                    <nombrePlatillo>Carne Wagyu en su salsa</nombrePlatillo>
+                    <popularidad>Muy conocida en Japón pero poco consumo promedio</popularidad>         
+            </aspectos>
+                <rango>2</rango>
+            </id>
+
+            <id category="Perú">
+            <pais>Lima</pais>
+                <estado-provincia lang="es">Lima</estado-provincia>         
+            <aspectos>
+                    <nombrePlatillo>Ceviche</nombrePlatillo>
+                    <popularidad>Muy conocido en el Perú por toda su gente</popularidad>         
+            </aspectos>
+                <rango>1</rango>
+            </id>
+
+
+        <dateline>
+            <location>Edificio AG </location>
+            <date>9/11/2022</date>
+        </dateline>
+    </body>
+</Top3>
